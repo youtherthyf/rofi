@@ -1,5 +1,5 @@
 configuration {
-	modi: "window,drun,ssh,power-menu:rofi-power-menu";
+	modi: "window,drun,ssh,power-menu:rofi-power-menu,search:~/rofi-web-search/rofi-web-search.py";
 	width: 20;
 	lines: 15;
 	columns: 1;
